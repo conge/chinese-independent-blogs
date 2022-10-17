@@ -167,7 +167,7 @@ FlyingSky's Blog, https://blog.fsky7.com/, https://blog.fsky7.com/feed, 编程; 
 anran758's blog, https://anran758.github.io/blog/, https://anran758.github.io/blog/atom.xml, 编程; 前端
 思有云, https://www.ioiox.com, https://www.ioiox.com/feed, 技术教程; 云服务; 私有云; 存储NAS; 群晖技巧; Synology
 初等記憶體, https://axionl.me, https://axionl.me/index.xml, Linux 使用; 個人隨筆
-城中村群租房, https://www.darmau.com, http://www.darmau.com/rss, 设计; 生活; 编程
+可可托海没有海, https://darmau.design/, https://darmau.design/rss.xml, 摄影; 设计; 生活; 编程
 五分钟学算法, https://www.cxyxiaowu.com, https://www.cxyxiaowu.com/feed, 算法; 编程
 Tianke Youke, https://jyzhu.top, https://jyzhu.top/atom.xml, 编程; 随笔; 诗; 恋爱
 爱写代码的小书童, https://zofun.github.io/, https://zofun.github.io/atom.xml, 编程; 随笔; 后端
@@ -599,7 +599,6 @@ Zikin的独立博客, https://zikin.org, https://zikin.org/feed/, 生活; 折腾
 贰猹的小窝, https://noionion.top/, https://noionion.top/atom.xml, 编程; 分享; 生活
 方泽强, https://zeqiang.fun, https://zeqiang.fun/index.xml, 数据科学; 地图数据可视化; 生活
 ChenYFanのBlog, https://blog.cyfan.top, https://blog.cyfan.top/atom.xml, 编程; 技术; 分享; 记录
-鹏., https://fyljp.com/, https://fyljp.com/atom.xml, 生活; 工作; 笔记
 hiDandelion's Space, https://www.hidandelion.com, https://www.hidandelion.com/rss, 编程; 物理; 笔记; 生活
 emperinter's blog, https://www.emperinter.info, https://www.emperinter.info/sitemap.rss, IT; 计算机; 影评; 读书笔记; 体验
 W4J1e's blog, https://hin.cool, https://hin.cool/atom.xml, 分享; 记录; 技术; 写作
@@ -670,7 +669,7 @@ iMaeGoo's Blog, https://www.imaegoo.com, https://www.imaegoo.com/atom.xml, 编�
 大大的小蜗牛, https://eallion.com/, https://eallion.com/atom.xml, 生活; 电商
 BAI YUN, https://baiyun.me/, https://baiyun.me/feed, 技术; 分享
 宝硕博客, https://blog.baoshuo.ren, https://blog.baoshuo.ren/atom.xml, 技术; 编程; 生活; 前端; 后端; 分享; 笔记
-沉舟侧畔 Blog, https://springwood.me, https://springwood.me/feed/, 技术; 生活; 日剧
+沉舟侧畔 Blog, https://springwood.me, https://springwood.me/feed/, 技术; 日本生活; iOS; macOS; 分享
 学无止境@一点一滴, http://gtdstudy.com/, http://yibie.github.io/index.xml, 阅读; 思考
 EdNovas的小站, https://ednovas.xyz, https://ednovas.xyz/atom.xml, 编程; 算法; Linux; 科学上网
 wentao's blog, https://wentao.org, https://wentao.org/index.xml, 编程; 阅读; 思考
@@ -906,7 +905,7 @@ matsuri's neverland, https://matsuri.site/, https://matsuri.site/atom.xml, 编�
 你是下雨天, https://glooow1024.github.io/, https://glooow1024.github.io/atom.xml, 学习; 数学; 技术; 随笔
 时间的朋友, https://blog.storycn.cn/, https://blog.storycn.cn/index.xml, 前端; 分享; 工作笔记
 布鲁斯鱼的奇思乱想, https://emergencyexit.xyz/, , 编程; 工作笔记; 生活; 游戏; 电影
-静水深流的博客, https://slbyml.github.io/, https://slbyml.github.io/sitemap.xml, 编程; 前端; 技术; 随笔
+静水深流的博客, https://slbyml.github.io/, https://slbyml.github.io/rss.xml, 编程; 前端; 技术; 随笔
 Tw93 的博客, https://tw93.fun/, https://tw93.fun/feed.xml, 开源; 前端; 分享; MacOS
 ocero的博客, https://oceroblogentry.metalstudio.top/, https://oceroblogentry.metalstudio.top/rss.xml, 前端; 分享; 生活小记
 BinGo‘s Blog, https://www.zh996.com/, https://www.zh996.com/index.php/feed/, 编程; Java; 分享; 生活
@@ -916,3 +915,16 @@ Qiuyuair的自留地, https://qiuyuair.com/, https://qiuyuair.com/feed/, 生活;
 造壳 MkShell, https://www.mkshell.com/, https://www.mkshell.com/feed/, 随笔; 技术; 折腾; 生活
 流年石刻, https://www.timeshike.com/, https://www.timeshike.com/atom.xml, 记录; 编程; 学习; 文学
 六个周, https://blog.liugezhou.online/, https://blog.liugezhou.online/atom.xml, 编程; 前端; 技术; 随笔
+孙威的阳光海, https://www.sunnyfly.com/, https://www.sunnyfly.com/feed, 产品; 生活; 随笔
+Sean's Note, https://blog.sean.taipei/, https://blog.sean.taipei/feed.xml, 技术; 编程; 生活; 日常
+cserwen, https://blog.cserwen.com/, https://blog.cserwen.com/feed.xml, 学习; 技术; 生活; 日常
+云萧的咕咕屋, https://blogs.crrashh1542.top/, https://blogs.crrashh1542.top/feed, 学习; 前端; 技术
+Xiang 的小站, https://blog.xuwenwen.love/, https://blog.xuwenwen.love/rss.xml, 编程; 随笔; 日常
+Ares Chang的小笔记, https://areschang.top/, , 前端; docs; 分享
+Ch3nnnnn 个人博客, https://ch3nnn.cn/, https://ch3nnn.cn/feed, 编程; 技术; 折腾
+xiongxinwei的个人博客, https://nsddd.top/, https://nsddd.top/rss.xml, 编程; 技术; 区块链; 学习; 资料收集
+荒唐言, https://ov0vo.cn/, https://ov0vo.cn/rss.xml, 编程; 分享; 日常; 随笔
+亦非书, https://yifeishu.com/hu@yifeishu.com, , 前端; 文章; 笔记
+李昆博客, https://onelk.cn, , 学习; 技术; 生活; 日常
+赫赫文王, https://kqh.me, https://kqh.me/index.xml, 历史; 人文; 艺术; 日常
+一派胡言, https://yipai.me, https://yipai.me/feed, 胡一派; 随笔; 不折腾
