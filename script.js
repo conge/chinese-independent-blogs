@@ -67,7 +67,7 @@ async function getResultAndUpdateREADME() {
   });
 
   // update README
-  const tableContentInMD = markdownTable([['RSS 订阅数 <img width=110/> ', '简介', '链接', '标签'], ...newTable]);
+  const tableContentInMD = markdownTable([['<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RSS 订阅数</p>', '简介', '链接', '标签'], ...newTable]);
 
   const readmeContent = `
 # 中文独立博客列表
@@ -100,7 +100,7 @@ ${tableContentInMD}
 
 ### 如何提交
 
-1. 在 [./blogs-original.csv](./blogs-original.csv) 中填入博客的 名称、URL、RSS以及标签
+1. 在 [./blogs-original.csv](./blogs-original.csv) 尾部添加一行，填入博客的 名称、URL、RSS以及标签
 2. 提交 PR
 3. (自动) PR 被 merge 之后 README 通过 [./script.js](./script.js) 生成
 
@@ -115,7 +115,7 @@ ${tableContentInMD}
 
 是否可以做一个工具，可以连接这些独立博主，在保持独立博客的自由的同时，组织一个独立博客的创作和读者群体，让独立博客们也有一个稳定的被发现的渠道。这个工具可能是一个带个性化推荐系统的 RSS 客户端，可能是一个类似微博、twitter 但是主要内容是独立博客的新东西，读者可以点赞，评论。可以知道我们 follow 的博主 follow 了谁……
 
-这个列表是一个开始，先把独立博客们收集起来。欢迎加入 [Telegram 群](https://t.me/indieBlogs)一起思考和讨论如何构建这样一个工具。或者你也可以通过 email [订阅更新](https://mailchi.mp/7585311373a3/indieblogs)
+这个列表是一个开始，先把独立博客们收集起来。欢迎加入 [Telegram 群](https://t.me/indieBlogs)一起思考和讨论如何构建这样一个工具。
 
 ## Thanks
 
@@ -143,11 +143,14 @@ ${tableContentInMD}
   - [Vuepress](https://vuepress.vuejs.org/)
   - [Wordpress](https://wordpress.com/)
   - [Wowchemy](https://wowchemy.com)
+  - [Astro](https://astro.build)
+  - [Vanblog](https://vanblog.mereith.com/)
 
 ## 博客部署工具推荐
 
   - [Netlify](https://www.netlify.com/)
   - [Vercel](https://vercel.com/)
+  - [Cloudflare Pages](https://pages.cloudflare.com/)
 `
 
   fs.writeFileSync('./README.md', readmeContent, 'utf8');
